@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Ubuntu&display=swap');
 
 body{
-    background-color: Teal;
+    background-color: #003C43;
 }
 
 *{
@@ -50,7 +50,7 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-color: cyan ;
+    background-color:#135D66;
 }
 .bottom{
     position: sticky;
